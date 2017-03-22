@@ -46,3 +46,5 @@ My Atom Package Backup
  41. tidy-markdown
  42. vim-mode-plus
  43. vim-mode-plus-ex-mode
+ 44. lunar-particle-ui
+ 45. lunar-particle-syntax
