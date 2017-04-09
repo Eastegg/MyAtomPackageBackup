@@ -8,43 +8,42 @@ My Atom Package Backup
  5. atom-jshint jsjsjsjsjsjsjsjsjs
  5. atom-ternjs jsjsjsjsjsjsjsjsjs
  6. autoclose-html
- 7. autocomplete-plus
- 8. autocomplete-json
+ 7. autocomplete-json
  8. autoprefixer
  9. bottom-dock
- 10. color-picker
- 11. emmet
- 12. file-icons
- 13. git-log
- 14. git-plus
- 15. gulp-manager
- 16. javascript-snippets
- 17. jshint jsjsjsjsjsjsjsjsjs
- 18. linter
- 19. linter-csslint
- 20. linter-eslint jsjsjsjsjsjs
- 21. linter-htmlhint
- 22. linter-jshint jsjsjsjsjsjs
- 23. linter-jsonlint
- 24. linter-manager
- 25. linter-markdown
- 26. linter-php
- 27. markdown-writer
- 28. merge-conflicts
- 29. minimap
- 30. minimap-bookmark
- 31. minimap-cursorline
- 32. minimap-find-and-replace
- 33. minimap-highlight-selected
- 34. minimap-linter
- 35. minimap-pigments
- 36. minimap-selection
- 37. minimap-split-diff
- 38. pigments
- 39. pretty-json
- 40. relative-number
- 41. tidy-markdown
- 42. vim-mode-plus
- 43. vim-mode-plus-ex-mode
- 44. lunar-particle-ui
- 45. lunar-particle-syntax
+ 9. color-picker
+ 10. emmet
+ 11. file-icons
+ 12. git-log
+ 13. git-plus
+ 14. gulp-manager
+ 15. javascript-snippets
+ 16. jshint jsjsjsjsjsjsjsjsjs
+ 17. linter
+ 18. linter-csslint
+ 19. linter-eslint jsjsjsjsjsjs
+ 20. linter-htmlhint
+ 21. linter-jshint jsjsjsjsjsjs
+ 22. linter-jsonlint
+ 23. linter-manager
+ 24. linter-markdown
+ 25. linter-php
+ 26. markdown-writer
+ 27. merge-conflicts
+ 28. minimap
+ 29. minimap-bookmark
+ 30. minimap-cursorline
+ 31. minimap-find-and-replace
+ 32. minimap-highlight-selected
+ 33. minimap-linter
+ 34. minimap-pigments
+ 35. minimap-selection
+ 36. minimap-split-diff
+ 37. pigments
+ 38. pretty-json
+ 39. relative-number
+ 40. tidy-markdown
+ 41. vim-mode-plus
+ 42. vim-mode-plus-ex-mode
+ 43. lunar-particle-ui
+ 44. lunar-particle-syntax
